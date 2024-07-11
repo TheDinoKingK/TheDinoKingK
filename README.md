@@ -6,7 +6,7 @@ most of this account's repos are personal projects I've been working on, mods, t
 
 The rest are some basic projects from when I was learning from tutorials
 
-If you want to contact me about anything you can message me @Kaveencode365@gmail.com or discord @TheDinoKing
+If you want to contact me about anything you can email me @Kaveencode365@gmail.com or message me on discord @TheDinoKing
 
 <!-- you can also check out my (website)[https://thedinoking.dev] to learn more about me 
 (uncomment this once my site is actually avaliable
