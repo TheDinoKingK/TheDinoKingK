@@ -1,21 +1,16 @@
-### 'ello! I'm Kaveen, aka "The Dino King" on most platforms
+### 'ello! I'm Kaveen, aka "The Dino King" on most social media platforms
 
-I'm a kid who makes silly stuff online and has learned to code in a few languages and frameworks, hoping to get a programming job one day
+I'm a kid who makes many things online and have learned to code in a few languages and frameworks, hoping to get a programming job one day
 
-most of this account's repos are personal projects or just things I learned from courses.
+most of this account's repos are personal projects I've been working on, mods, themes, websites, etc. 
 
-I've learned to code in
-  **Node.JS**
-  **Java**
-  **HTML & CSS**
-  **C++ (mainly in unreal engine)**
-  **C# (mainly in unity)**
-  **Tensorflow (and general deep learning knowledge)**
-  **Python**
+The rest are some basic projects from when I was learning from tutorials
 
-and I'm recently learning to use Linux and the Redhat ecosystem
+If you want to contact me about anything you can message me @Kaveencode365@gmail.com or discord @TheDinoKing
 
-If you want to contact me about anything you can message me at Kaveencode365@gmail.com or discord at TheDinoKing
+<!-- you can also check out my (website)[https://thedinoking.dev] to learn more about me 
+(uncomment this once my site is actually avaliable
+-->
 
 <!--
  Work to revamp this later as its kinda boring lmao
